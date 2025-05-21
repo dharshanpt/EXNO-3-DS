@@ -31,8 +31,27 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](<Screenshot 2025-04-11 160946.png>)
+       ![alt text](<Screenshot 2025-04-11 160957.png>)
+       ![alt text](<Screenshot 2025-04-11 161004.png>)
+       ![alt text](<Screenshot 2025-04-11 161011.png>)
+       ![alt text](<Screenshot 2025-04-11 161021.png>)
+       ![alt text](<Screenshot 2025-04-11 161030.png>) 
+       ![alt text](<Screenshot 2025-04-11 161052.png>)
+       ![alt text](<Screenshot 2025-04-11 161103.png>)
+       ![alt text](<Screenshot 2025-04-11 161112.png>) 
+       ![alt text](<Screenshot 2025-04-11 161124.png>)
+       ![alt text](<Screenshot 2025-04-11 161136.png>)
+       ![alt text](<Screenshot 2025-04-11 161143.png>) 
+       ![alt text](<Screenshot 2025-04-11 161151.png>) 
+       ![alt text](<Screenshot 2025-04-11 161158.png>) 
+       ![alt text](<Screenshot 2025-04-11 161212.png>) 
+       ![alt text](<Screenshot 2025-04-11 161230.png>) 
+       ![alt text](<Screenshot 2025-04-11 161238.png>) 
+       ![alt text](<Screenshot 2025-04-11 161246.png>) 
+       ![alt text](<Screenshot 2025-04-11 161256.png>)
+       ![alt text](<Screenshot 2025-04-11 161306.png>)
+       ![alt text](<Screenshot 2025-04-11 161312.png>)
+       ![alt text](<Screenshot 2025-04-11 161317.png>)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
-       
+      To read the given data and perform Feature Encoding and Transformation process and save the data to a file is written and executed successfully.
